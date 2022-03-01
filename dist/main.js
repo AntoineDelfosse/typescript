@@ -113,3 +113,4 @@ var manips;
     }
     printArray2(tab);
 })(manips || (manips = {}));
+//# sourceMappingURL=main.js.map
